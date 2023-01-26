@@ -1,0 +1,15 @@
+.nav-servicios {
+    list-style: none;
+
+
+}
+
+.contenedor-servicios {
+    display: flex;
+    justify-content: center;
+}
+
+.greeting {
+    display: flex;
+    justify-content: center;
+}

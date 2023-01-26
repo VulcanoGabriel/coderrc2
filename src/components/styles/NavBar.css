@@ -1,0 +1,41 @@
+body{
+    background-image: url("../../../public/portadaindex.jpg");
+    background-size: cover;
+}
+
+.header-container {
+    margin-left: 5%;
+    display: inline;
+
+ 
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    cursor: pointer;
+
+
+
+
+}
+
+li {
+
+    float: left;
+    padding-left:3px;
+    padding-right:3px;
+}
+
+
+.header-carrito {
+    margin-left: 90%;
+    margin-top: 10px;
+    /* background-image: url("../../../public/portadaindex.jpg"); */
+}
+
+  /*backgrounds*/
+  .background--transparent {
+    background-color: transparent;
+  }
