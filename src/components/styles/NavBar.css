@@ -39,3 +39,15 @@ li {
   .background--transparent {
     background-color: transparent;
   }
+
+  .claseActivo{
+    color: red
+}
+.claseInactivo{
+    color: blue;
+}
+
+.logo-brand {
+    height: 50px;
+    width: 50px;
+}
